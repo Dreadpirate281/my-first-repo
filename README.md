@@ -1,30 +1,19 @@
-# This is a large heading
+# Matt Roberts
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth, 
-The forms of things *unknown*, the poet’s pen, 
-Turns them to shapes and gives to airy nothing, 
-A local *habitation* and a **name**. 
+I live in the city of Yakima, in the state of Washington, in the United States of America
 
+### Reading
 
-- This is 
-- an unordered 
-- list 
+Three of my favorite books are:
+- *East of Eden* by John Steinbeck
+- *Sometimes a Great Notion* by Ken Kesey
+- *The Wheel of Time* series by Robert Jordan (& Brandon Sanderson)
 
-1. This is 
-2. an ordered 
-3. list 
+### Sports
 
-Here is `some code` in the middle of a sentence. 
-
-``` 
-This is 
-a block 
-of code 
-``` 
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+I am a huge sports fan. My favorite sports franchises are:
+1. The Los Angeles Dodgers (soooo stoked they finally won the World Series!)
+2. The Dallas Cowboys (the Cowboys, on the other hand...)
+3. The Los Angeles Lakers
